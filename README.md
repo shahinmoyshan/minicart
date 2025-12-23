@@ -19,33 +19,3 @@
         php artisan serve
     ```
 That's it!
-
-<hr />
-
-## About Me
-
-Hello there,  
-I'm Shahin, a full-stack web developer. I am 23 years old and I passed the Higher Secondary Certificate (HSC) in 2023.
-
-I have been learning web development since 2018 through various online platforms such as Udemy, YouTube, etc. I also attended the Practical Technical Institute "Creative It Ins." in 2019 for the course "PHP Laravel Development." I specialize in PHP core programming (OOP, MVC) and I am proficient in PHP Laravel, WordPress theme and plugin development along with frontend technologies such as JavaScript, Vue.js, Alpine.js, Tailwind CSS, and Bootstrap. I worked as a freelance web developer in early 2020, focusing on WordPress theme and plugin development as well as custom website development. Outside of the freelance marketplace, I also worked with a Pakistani client for 2 years. I am passionate about technologies and web programming, and I enjoy learning new things. I have worked as a part-time freelancer alongside my studies, but not as a full-time career yet – however, I am now seeking opportunities to work in the field, as I have been sitting in my computer chair since 2015 when I first bought my computer. I want to work in a practical environment and continue learning, and I hope to get a chance to achieve my goal.
-
-Here are some of my recent works and links:  
-https://coplay.evolesoft.com  
-https://saleo.evolesoft.com  
-https://github.com/vulcanphp?tab=repositories  
-https://logobigo.com (first project in 2020)
-
-I have many source code projects stored on my hard drive, though not all have demo links.
-
-As a web developer, I am confident that I can develop any kind of website or web-managed system on my own. And as a junior Laravel developer, I am confident that I will be on your shortlist.
-
-I am looking forward to hearing from you.
-
-Kind Regards,  
-MD. Shahinul Islam
-
-## Contact Me
-- **Email Address:** shahin.moyshan2@gmail.com and freelance.shain@gmail.com
-- **Phone & WhatsApp:** +880 1969467747
-- **Website:** evolesoft.com
-- **Facebook:** https://www.facebook.com/moyshan2
